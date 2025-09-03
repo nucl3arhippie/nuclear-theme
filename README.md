@@ -12,17 +12,17 @@ A handcrafted, high-contrast VS Code color theme with vibrant accents inspired b
 
 Below are screenshots from the `screenshots/` folder showing the theme applied to different file types.
 
-### CSS
-![CSS screenshot](./screenshots/css.png)
+### C++
+![C++ screenshot](./screenshots/%D1%81++.png)
 
 ### HTML
 ![HTML screenshot](./screenshots/html.png)
 
+### CSS
+![CSS screenshot](./screenshots/css.png)
+
 ### JavaScript
 ![JS screenshot](./screenshots/js.png)
-
-### C++
-![C++ screenshot](./screenshots/%D1%81++.png)
 
 > Note: If any image doesn't render on your platform, open the `screenshots/` folder and view the PNG files directly.
 
@@ -43,7 +43,7 @@ If you have the packaged extension file in the project root (`nuclear-hippie-0.1
 - From the command line (PowerShell):
 
 ```powershell
-code --install-extension "C:\Users\j2cks\Desktop\nuclear theme\nuclear-hippie-0.1.0.vsix"
+code --install-extension "PATH\nuclear-hippie-0.1.0.vsix"
 ```
 
 Replace the path above if the `.vsix` file is located elsewhere.
