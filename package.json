@@ -2,7 +2,7 @@
   "name": "nuclear-hippie",
   "displayName": "Nuclear Theme",
   "description": "#nuclearhippiemoneygang",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "author": "j2cks aka nuclearhippie",
   "publisher": "j2cks",
   "icon": "logo.png",
@@ -38,9 +38,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Nuclear hippie",
+        "label": "Nuclear",
         "uiTheme": "vs-dark",
-        "path": "./themes/Nuclear-hippie-theme.json"
+        "path": "./themes/nuclear.json"
+      },
+      {
+        "label": "Nuclear Pastele",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nuclear-pastele.json"
       }
     ]
   }

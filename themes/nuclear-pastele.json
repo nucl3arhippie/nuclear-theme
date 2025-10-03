@@ -1,5 +1,5 @@
 {
-  "name": "Nuclear",
+  "name": "Nuclear Pastele",
   "type": "dark",
   "colors": {
     "editor.background": "#161616",
@@ -151,11 +151,7 @@
       "scope": "constant.character.escape",
       "settings": { "foreground": "#7AB8FFE6" }
     },
-    {
-      "name": "Named entities",
-      "scope": "entity.name",
-      "settings": { "foreground": "#E8E6E3E6" }
-    },
+    { "name": "Named entities", "scope": "entity.name", "settings": { "foreground": "#E8E6E3E6" } },
     {
       "name": "Function names",
       "scope": "entity.name.function",
@@ -202,9 +198,7 @@
     {
       "name": "Class name",
       "scope": ["entity.name.type.class.ts", "entity.name.type.interface.ts"],
-      "settings": {
-        "foreground": "#5BA3E8"
-      }
+      "settings": { "foreground": "#5BA3E8" }
     },
     {
       "name": "Constant",
@@ -212,15 +206,9 @@
         "variable.other.constant.property.ts",
         "variable.other.constant.object.property.ts"
       ],
-      "settings": {
-        "foreground": "#E8E6E3"
-      }
+      "settings": { "foreground": "#E8E6E3" }
     },
-    {
-      "name": "Units",
-      "scope": "keyword.other.unit",
-      "settings": { "foreground": "#FFD98EE6" }
-    },
+    { "name": "Units", "scope": "keyword.other.unit", "settings": { "foreground": "#FFD98EE6" } },
     {
       "name": "Markup quotes",
       "scope": "markup.quote",
@@ -284,11 +272,7 @@
       ],
       "settings": { "foreground": "#98D8AA" }
     },
-    {
-      "name": "Regex",
-      "scope": "string.regexp",
-      "settings": { "foreground": "#FFD98E" }
-    },
+    { "name": "Regex", "scope": "string.regexp", "settings": { "foreground": "#FFD98E" } },
     {
       "name": "Markup link descriptions",
       "scope": "string.other.link",
@@ -319,11 +303,7 @@
       "scope": "support.type.property-name.css",
       "settings": { "foreground": "#E8E6E3" }
     },
-    {
-      "name": "Parameters",
-      "scope": "variable.parameter",
-      "settings": { "fontStyle": "italic" }
-    },
+    { "name": "Parameters", "scope": "variable.parameter", "settings": { "fontStyle": "italic" } },
     {
       "name": "Embedded template punctuation",
       "scope": "string.template meta.embedded",
@@ -332,9 +312,7 @@
     {
       "name": "Tag brackets",
       "scope": ["punctuation.definition.tag", "punctuation.separator"],
-      "settings": {
-        "foreground": "#E8E6E39F"
-      }
+      "settings": { "foreground": "#E8E6E39F" }
     },
     {
       "name": "Template expressions",
