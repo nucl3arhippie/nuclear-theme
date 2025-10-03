@@ -14,26 +14,6 @@ Designed for long coding sessions: clean syntax highlighting, readable UI, and e
 
 ---
 
-## 📸 Preview
-
-Screenshots from the `screenshots/` folder:
-
-### 🧩 C++
-![C++ screenshot](./screenshots/%D1%81++.png)
-
-### 🌐 HTML
-![HTML screenshot](./screenshots/html.png)
-
-### 🎨 CSS
-![CSS screenshot](./screenshots/css.png)
-
-### ⚡ JavaScript
-![JS screenshot](./screenshots/js.png)
-
-> 💡 If an image doesn’t load, open the `screenshots/` folder and check the PNGs directly.
-
----
-
 ## 🚀 Installation
 
 Pick the method that suits you best:
