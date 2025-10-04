@@ -1,8 +1,5 @@
 # 🌈 Nuclear Hippie — VS Code Theme
 
-A handcrafted, **high-contrast** Visual Studio Code theme with **vibrant retro-synth vibes**.
-Designed for long coding sessions: clean syntax highlighting, readable UI, and eye-pleasing accents that won’t burn your eyes.
-
 ---
 
 ## ✨ Features
@@ -16,9 +13,7 @@ Designed for long coding sessions: clean syntax highlighting, readable UI, and e
 
 ## 🚀 Installation
 
-Pick the method that suits you best:
-
-### 1️⃣ Install from VSIX (recommended for this repo)
+### Install from VSIX (recommended for this repo)
 
 If you have `nuclear-hippie-0.1.0.vsix` in the root folder:
 
@@ -26,9 +21,5 @@ If you have `nuclear-hippie-0.1.0.vsix` in the root folder:
   1. Open VS Code.
   2. Go to Extensions (Ctrl+Shift+X).
   3. Click the ⋯ menu → *Install from VSIX...*
-  4. Select `nuclear-hippie-0.1.0.vsix`.
+  4. Select `nuclear-hippie.vsix`.
 
-- **From command line (PowerShell)**:
-
-```powershell
-code --install-extension "PATH\nuclear-hippie-0.1.0.vsix"
